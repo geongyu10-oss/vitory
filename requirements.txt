@@ -1,0 +1,4 @@
+streamlit
+pandas
+soccerdata
+seleniumbase>=4.40.0
